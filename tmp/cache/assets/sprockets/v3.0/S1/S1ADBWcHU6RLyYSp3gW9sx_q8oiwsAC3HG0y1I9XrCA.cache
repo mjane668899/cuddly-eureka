@@ -1,0 +1,24 @@
+{:uriI"¸file:///Users/michelle/Projects/project-1/upgraded-carnival-main%202/app/assets/config/cloudinary.yml?type=text/yaml&id=07a24f164bfb8b7a5718ca826ce6dcc81a0e7e5699dfd5c24430c243ad51fef0:ET:load_pathI"app/assets/config;T:filenameI"%app/assets/config/cloudinary.yml;T:	nameI"cloudinary;T:logical_pathI"cloudinary.yml;T:content_typeI"text/yaml;T:sourceI"æ---
+development:
+  cloud_name: Rails.application.secrets.cloudinary_cloud_name
+  api_key: Rails.application.secrets.cloudinary_api_key
+  api_secret: Rails.application.secrets.cloudinary_api_secret
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: Rails.application.secrets.cloudinary_cloud_name
+  api_key: Rails.application.secrets.cloudinary_api_key
+  api_secret: Rails.application.secrets.cloudinary_api_secret
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: Rails.application.secrets.cloudinary_cloud_name
+  api_key: Rails.application.secrets.cloudinary_api_key
+  api_secret: Rails.application.secrets.cloudinary_api_secret
+  enhance_image_tag: true
+  static_image_support: false
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"qfile-digest:///Users/michelle/Projects/project-1/upgraded-carnival-main%202/app/assets/config/cloudinary.yml;TTF:charsetI"
+utf-8;F:digest"%Hz´}Ü–.Éı¸ÉB4…Sêı'_ÜüT‡’:lengthiæ:dependencies_digest"%óâüÓ¼+a;ú^Í÷Hÿ­iåïıhì˜õ÷'ÿÆ+:idI"E07a24f164bfb8b7a5718ca826ce6dcc81a0e7e5699dfd5c24430c243ad51fef0;F:
+mtimel+6	–_
